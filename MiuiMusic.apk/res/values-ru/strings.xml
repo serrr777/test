@@ -73,8 +73,7 @@
     <string name="recentlyadded_title">Добавить песни</string>
     <string name="sdcard_missing_message">Ваш телефон не имеет SD-карты.</string>
     <string name="sdcard_missing_message_nosdcard">Ваш телефон не имеет USB-памяти.</string>
-    <string name="sdcard_busy_message">К сожалению, ваша SD карта занята.
- Пожалуйста, проверьте SD карты государства.</string>
+    <string name="sdcard_busy_message">К сожалению, ваша SD-карта занята.</string>
     <string name="sdcard_busy_message_nosdcard">К сожалению, ваш USB накопитель занят.</string>
     <string name="sdcard_error_message">Обнаружена ошибка на SD-карте.</string>
     <string name="sdcard_error_message_nosdcard">Обнаружена ошибка на USB накопителе.</string>
@@ -171,7 +170,7 @@
     <string name="musicbrowserlabel">Обзор музыки</string>
     <string name="mediaplaybacklabel">Музыка</string>
     <string name="online_music">Онлайн-музыка</string>
-    <string name="artists_title">Артист</string>
+    <string name="artists_title">Исполнитель</string>
     <string name="albums_title">Альбом</string>
     <string name="folders_title">Папки</string>
     <string name="tracks_title">Трек</string>
